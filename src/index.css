@@ -1,0 +1,19 @@
+.slider img,
+.card-image {
+    height: 450px;
+    object-fit: cover;
+}
+.toast-success-custom {
+    background-color: #03a9f4;
+}
+.typewriter-font-color {
+    background: #03a9f4;
+}
+.pointer {
+    cursor: pointer;
+}
+.ql-editor {
+    height: 180px !important;
+    overflow: hidden;
+    overflow-y: scroll;
+}
